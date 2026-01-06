@@ -1,0 +1,6 @@
+com\mycompany\wildcard\no\collection\Sensor.class
+com\mycompany\wildcard\no\collection\TemperatureSensor.class
+com\mycompany\wildcard\no\collection\SensorBox.class
+com\mycompany\wildcard\no\collection\PressureSensor.class
+com\mycompany\wildcard\no\collection\SensorProcessor.class
+com\mycompany\wildcard\no\collection\WildcardNoCollection.class
